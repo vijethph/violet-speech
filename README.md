@@ -10,7 +10,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/vijethph/violet-speech">
-    <img src="img/icons8-speech-bubble-512.png" alt="Logo" width="80" height="80">
+    <img src="flower.png" alt="Logo" width="80" height="80">
   </a>
 
   <h2 align="center">Violet - The Speech Assistant</h2>
@@ -70,7 +70,7 @@ To get a local copy of the program up and running follow these simple steps.
 
 Python>=3.7 and pip>=19.2 should be installed. After installation, check their versions using
 
-```python
+```
 python --version
 pip --version
 ```
@@ -79,7 +79,7 @@ pip --version
 ### Installation
 
 1. Clone the repo
-```sh
+```git
 git clone https://github.com/vijethph/violet-speech.git
 ```
 2. Open the downloaded folder
