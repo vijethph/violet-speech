@@ -12,7 +12,7 @@ PyAudio==0.2.11
 pypiwin32==223
 PySimpleGUI==4.15.2
 pyttsx3==2.81
-pywin32==227
+pywin32==301
 requests==2.22.0
 six==1.14.0
 soupsieve==1.9.5
