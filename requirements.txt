@@ -17,4 +17,4 @@ requests==2.32.2
 six==1.14.0
 soupsieve==1.9.5
 SpeechRecognition==3.8.1
-urllib3==1.26.5
+urllib3==1.26.19
