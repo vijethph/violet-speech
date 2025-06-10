@@ -13,7 +13,7 @@ pypiwin32==223
 PySimpleGUI==4.15.2
 pyttsx3==2.81
 pywin32==301
-requests==2.32.2
+requests==2.32.4
 six==1.14.0
 soupsieve==1.9.5
 SpeechRecognition==3.8.1
